@@ -1,0 +1,23 @@
+{
+	"name": "qei-input-validations",
+	"version": "1.0.0",
+	"description": "Input validations for htmp inputs",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/oyazicioglu/qei-input-validations.git"
+	},
+	"keywords": [
+		"input",
+		"validation"
+	],
+	"author": "Ömer YAZICIOĞLU",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/oyazicioglu/qei-input-validations/issues"
+	},
+	"homepage": "https://github.com/oyazicioglu/qei-input-validations#readme"
+}
